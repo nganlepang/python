@@ -82,3 +82,6 @@ def import_and_create_bank(filename):
     
     return bank
     
+    
+    """AssertionError: True is not false : The bank dictionary is not supposed to be empty after reading 'bank.txt'.
+    this is the error that i got when i submitted this code previously."""
