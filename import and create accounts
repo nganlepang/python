@@ -1,3 +1,29 @@
+"""CODE ASSISTANCE FROM TA:
+
+def import_and_create_accounts(filename):
+    
+    # your code here
+    initiate user_accounts dictionary
+    initiate log_in dictionary
+    user = open('user.txt','r')
+    
+    for line in user
+        if '-' not in line
+            continue
+
+        username = get the username from the file
+        password = get the password from the file
+        
+        if username empty
+            continue
+        if password empty
+            continue
+        signup(user_accounts, log_in, username, password)
+        
+    return user_accounts,log_in """
+
+
+
 def import_and_create_accounts(filename):
     '''
     This function is used to create an user accounts dictionary and another login dictionary.  The given argument is the
